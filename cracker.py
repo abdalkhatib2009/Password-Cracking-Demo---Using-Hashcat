@@ -176,8 +176,8 @@ TEMPLATE = '''
 
     <!-- footer -->
     <footer>
-      Developed by Ayesha (HCT Student) &nbsp;|&nbsp;
-      Designed by Mr Abdallah Alkhatib (HCT Staff)
+      Developed by Eng CyberWolf &nbsp;|&nbsp;
+   
     </footer>
   </div> <!-- .container -->
 </body>
